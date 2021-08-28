@@ -1,0 +1,5 @@
+{
+    "name":"Counter application",
+    "description":"An application that allows you to see a counter and to increment it",
+    "stack": "container"
+}
