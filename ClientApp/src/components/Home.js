@@ -39,7 +39,7 @@ export class Home extends Component {
 
     return (
       <div>
-        <h1>Current Counter</h1>
+        <h1>S1 Current Counter</h1>
         {contents}
       </div>
     );
